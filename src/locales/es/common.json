@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "lang": {
+    "en": "EN",
+    "pt": "PT",
+    "es": "ES"
+  },
+  "hero": {
+    "title": "Servicios de Desarrollo Web",
+    "subtitle": "Sitios web. Landing pages. Tiendas online. SEO que impulsa el crecimiento.",
+    "cta": "Solicitar Presupuesto"
+  },
+  "services": {
+    "heading": "Qué Construimos",
+    "websites_title": "Sitios Web a Medida",
+    "websites_desc": "Responsivos, rápidos y alineados con tus objetivos. Creamos interfaces elegantes e intuitivas que convierten.",
+    "landing_title": "Landing Pages de Alta Conversión",
+    "landing_desc": "Diseñadas para impulsar la acción y generar resultados medibles en campañas y captación de leads.",
+    "ecom_title": "Tiendas Online",
+    "ecom_desc": "Tiendas seguras y escalables con gestión de productos, pagos y analítica integrada."
+  },
+  "seo": {
+    "heading": "Plan de Contenidos SEO Personalizado",
+    "intro": "La visibilidad es poder. Nuestros planes de contenidos SEO te ayudan a dominar los resultados, atraer tráfico cualificado y aumentar las conversiones.",
+    "benefit1": "Maximiza la visibilidad online",
+    "benefit2": "Aumenta el tráfico orgánico del sitio",
+    "benefit3": "Facilita la optimización para motores de búsqueda",
+    "benefit4": "Aumenta la probabilidad de conversiones y el crecimiento del negocio"
+  },
+  "cta": {
+    "primary": "Iniciar Proyecto",
+    "secondary": "Habla con Nosotros"
+  },
+  "footer": {
+    "note": "Sitio web disponible en Inglés, Portugués y Español.",
+    "copy": "© SkunkWorks Projects"
+  }
+}

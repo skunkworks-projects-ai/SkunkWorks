@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "lang": {
+    "en": "EN",
+    "pt": "PT",
+    "es": "ES"
+  },
+  "hero": {
+    "title": "Web Development Services",
+    "subtitle": "Websites. Landing Pages. Online Stores. SEO that Drives Growth.",
+    "cta": "Get a Quote"
+  },
+  "services": {
+    "heading": "What We Build",
+    "websites_title": "Custom-Built Websites",
+    "websites_desc": "Responsive, fast, and tailored to your business goals. We craft elegant, intuitive interfaces that convert.",
+    "landing_title": "High-Converting Landing Pages",
+    "landing_desc": "Engineered to drive action and deliver measurable results for campaigns and lead generation.",
+    "ecom_title": "E-commerce Stores",
+    "ecom_desc": "Secure, scalable online stores with seamless product management, payments, and analytics."
+  },
+  "seo": {
+    "heading": "Custom SEO Content Plan",
+    "intro": "Visibility is power. Our SEO content plans help you dominate search results, attract qualified traffic, and boost conversions.",
+    "benefit1": "Maximizes online visibility",
+    "benefit2": "Increases organic website traffic",
+    "benefit3": "Facilitates search engine optimization",
+    "benefit4": "Increases the chance of conversions and business growth"
+  },
+  "cta": {
+    "primary": "Start Your Project",
+    "secondary": "Talk to Us"
+  },
+  "footer": {
+    "note": "Website available in English, Portuguese, and Spanish.",
+    "copy": "© SkunkWorks Projects"
+  }
+}
